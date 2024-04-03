@@ -1,0 +1,23 @@
+{
+  "name": "food delivery app",
+  "short_name": "fooddelivery",
+  "start_url": "index.html",
+  "scope": "./",
+  "theme_color": "#ffd31d",
+  "background_color": "#333",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "imagepngwing.com (1).png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "imagepngwing.com (2).png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
